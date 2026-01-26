@@ -55,6 +55,5 @@ public class Game {
         double damage2 = attack1 * skill1 - defense2;
         blood2 = blood2 - damage2;
         System.out.println(blood2);// 899.3
-
     }
 }
